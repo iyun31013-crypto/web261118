@@ -49,7 +49,7 @@ const movies = [
         year: 1996,
         date: "1996-05-21",
         rating: 7.4,
-        poster: "0/6vDaYhZypJzd8r0NnSY2JPIX6Y5.jpg"
+        poster: "/6vDaYhZypJzd8r0NnSY2JPIX6Y5.jpg"
     },
 
    
