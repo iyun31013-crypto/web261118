@@ -44,13 +44,13 @@ const movies = [
     },
   
 
-    {
-        title: "미션 임파서블(Mission: Impossible)",
-        year: 1996,
-        date: "1996-05-21",
-        rating: 7.4,
-        poster: "/6vDaYhZypJzd8r0NnSY2JPIX6Y5.jpg"
-    },
+   {
+        title: "암살자(들)", 
+        year: 2026, 
+        date: "2026-09-23",
+        rating: 7.2, 
+        poster: "/c55ijsOdntj6P25vDwHLdgsBpmV.jpg"
+    }
 
    
 ];
